@@ -1,0 +1,29 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "Versi�n  de prueba del TodoApp con React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurencevanq/TodoAppReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurencevanq/TodoAppReact/issues"
+  },
+  "homepage": "https://github.com/laurencevanq/TodoAppReact#readme",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "webpack": "^1.12.12"
+  }
+}
