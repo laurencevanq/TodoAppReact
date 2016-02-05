@@ -1,5 +1,5 @@
 # TodoAppReact
-TodoApp test version working in React
+TodoApp test version working in React (only hello world working for testing purposes)
 
 #How to Run
 
