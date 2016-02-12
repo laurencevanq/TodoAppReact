@@ -2,7 +2,7 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
-	entry: "./javascript/main.js",
+	entry: "./javascript/todoComponents.jsx",
 	output: {path: __dirname, filename: 'bundle.js'},
 	module: {
 		loaders: [
